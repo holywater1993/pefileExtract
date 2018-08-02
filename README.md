@@ -1,4 +1,4 @@
 # pefileExtract
 
 # Example
-# python pefileExtract.py [DirectoryPath]
+# python pefileInfo.py [DirectoryPath]
